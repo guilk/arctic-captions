@@ -5,6 +5,8 @@ runnable on GPU and CPU.
 
 Joint collaboration between the Université de Montréal & University of Toronto.
 
+folked by Liangke Gui to combine object saliency and attention model.
+
 ## Dependencies
 
 This code is written in python. To use it you will need:
